@@ -1,5 +1,5 @@
 # Tugas-1-PBO
 Kelompok 10: Sistem Informasi Peminjaman Buku Perpustakaan
-1. Rule Lulu Damara             (502521
-2. Sarah Nurhasna Khairunnisa   (502521
+1. Rule Lulu Damara             (5025211
+2. Sarah Nurhasna Khairunnisa   (5025211105)
 3. Ulima Kaltsum Rizky H.       (5025211232)
